@@ -5,7 +5,7 @@ subtitle:   这是我在这个网站的第一篇文章，作为梦开始的地�
 date:       2023-11-11
 author:     YD
 header-img: img/the-first.png
-catalog: false
+catalog: true
 tags:
     - 项目案例
 ---

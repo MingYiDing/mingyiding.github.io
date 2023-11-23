@@ -17,7 +17,7 @@ sidebar-avatar: /img/微信图片_20231111224728.jpg     # use absolute URL, see
 
 
 # SNS settings
-RSS: True
+RSS: False
 # weibo_username:     粪坑狗都不去
 # zhihu_username:     以后会有的
 # github_username:    MingYiDing

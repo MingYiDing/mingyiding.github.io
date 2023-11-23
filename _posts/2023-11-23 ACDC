@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      Automated and Connected Driving Challenges
+subtitle:   自动驾驶入门
+date:       2023-11-23
+author:     YD
+header-img: img/ACDC.png
+catalog: false
+tags:
+    - 项目案例
+---
+来自于亚琛工业大学RWTH-Aachen的自动驾驶学院IKA的录播网课，全程配套有$docker$环境和Jupyter notebook的案例文件，是一门不错的入门教程
+https://github.com/ika-rwth-aachen/acdc/wiki
